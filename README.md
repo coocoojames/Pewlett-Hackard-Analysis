@@ -7,7 +7,8 @@ and how should the company prepare for their exists including hiring new employe
 ## Results
 - Looking at retirement_titles table: 90,000 people are eligible for retirement! However, that includes people who don't work at PH anymore ![retirement_titles table](https://github.com/coocoojames/Pewlett-Hackard-Analysis/blob/main/Resources/retirement_titles_table.png)
 - After filtering through only the people who still work at PH, we find there are 72,000 people eligible for retirement across all departments ![unique_titles table](https://github.com/coocoojames/Pewlett-Hackard-Analysis/blob/main/Resources/unique_titles_table.png)
-- Then we look at how many people are retiring from each department ![retiring_titles table](https://github.com/coocoojames/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles_table.png)
+- Then we look at how many people are retiring from each department<br />
+![retiring_titles table](https://github.com/coocoojames/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles_table.png)
 - Looking at mentorship_eligibility table: only 1,549 employees are eligible to be a mentor ![mentorship_eligibility table](https://github.com/coocoojames/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_table.png)
 
 ## Summary
